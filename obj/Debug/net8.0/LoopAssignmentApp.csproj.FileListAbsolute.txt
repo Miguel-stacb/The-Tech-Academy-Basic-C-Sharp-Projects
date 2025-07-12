@@ -1,0 +1,14 @@
+C:\Users\macor\source\repos\LoopAssignmentApp\bin\Debug\net8.0\LoopAssignmentApp.exe
+C:\Users\macor\source\repos\LoopAssignmentApp\bin\Debug\net8.0\LoopAssignmentApp.deps.json
+C:\Users\macor\source\repos\LoopAssignmentApp\bin\Debug\net8.0\LoopAssignmentApp.runtimeconfig.json
+C:\Users\macor\source\repos\LoopAssignmentApp\bin\Debug\net8.0\LoopAssignmentApp.dll
+C:\Users\macor\source\repos\LoopAssignmentApp\bin\Debug\net8.0\LoopAssignmentApp.pdb
+C:\Users\macor\source\repos\LoopAssignmentApp\obj\Debug\net8.0\LoopAssignmentApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macor\source\repos\LoopAssignmentApp\obj\Debug\net8.0\LoopAssignmentApp.AssemblyInfoInputs.cache
+C:\Users\macor\source\repos\LoopAssignmentApp\obj\Debug\net8.0\LoopAssignmentApp.AssemblyInfo.cs
+C:\Users\macor\source\repos\LoopAssignmentApp\obj\Debug\net8.0\LoopAssignmentApp.csproj.CoreCompileInputs.cache
+C:\Users\macor\source\repos\LoopAssignmentApp\obj\Debug\net8.0\LoopAssignmentApp.dll
+C:\Users\macor\source\repos\LoopAssignmentApp\obj\Debug\net8.0\refint\LoopAssignmentApp.dll
+C:\Users\macor\source\repos\LoopAssignmentApp\obj\Debug\net8.0\LoopAssignmentApp.pdb
+C:\Users\macor\source\repos\LoopAssignmentApp\obj\Debug\net8.0\LoopAssignmentApp.genruntimeconfig.cache
+C:\Users\macor\source\repos\LoopAssignmentApp\obj\Debug\net8.0\ref\LoopAssignmentApp.dll
