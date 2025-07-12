@@ -1,0 +1,22 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.摟t
+*.builds
+*.log
+*.bak
+*.pdb
+*.obj
+[Bb]in/
+[Oo]bj/
+
+# NuGet
+*.nupkg
+# The packages folder can be ignored because NuGet restores packages
+# on build and upon opening the solution.
+[Pp]ackages/
+
+# Windows
+Thumbs.db
+Desktop.ini

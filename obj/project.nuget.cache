@@ -4,5 +4,15 @@
   "success": true,
   "projectFilePath": "C:\\Users\\macor\\source\\repos\\StringAssignmentApp\\StringAssignmentApp.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Problem reading the cache file C:\\Users\\macor\\source\\repos\\StringAssignmentApp\\obj\\project.nuget.cache : '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0.",
+      "projectPath": "C:\\Users\\macor\\source\\repos\\StringAssignmentApp\\StringAssignmentApp.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\macor\\source\\repos\\StringAssignmentApp\\StringAssignmentApp.csproj",
+      "targetGraphs": []
+    }
+  ]
 }

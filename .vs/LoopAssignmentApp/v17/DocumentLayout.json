@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\macor\\source\\repos\\StringAssignmentApp\\",
+  "WorkspaceRootPath": "C:\\Users\\macor\\source\\repos\\LoopAssignmentApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5EFC9F14-63A8-49D3-B24D-E99A262613E9}|StringAssignmentApp.csproj|c:\\users\\macor\\source\\repos\\stringassignmentapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5EFC9F14-63A8-49D3-B24D-E99A262613E9}|StringAssignmentApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5A458789-B649-4A84-8C84-5BBC8287E167}|LoopAssignmentApp.csproj|c:\\users\\macor\\source\\repos\\loopassignmentapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A458789-B649-4A84-8C84-5BBC8287E167}|LoopAssignmentApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,13 +28,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\macor\\source\\repos\\StringAssignmentApp\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\macor\\source\\repos\\LoopAssignmentApp\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\macor\\source\\repos\\StringAssignmentApp\\Program.cs",
+              "ToolTip": "C:\\Users\\macor\\source\\repos\\LoopAssignmentApp\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-12T22:58:55.543Z",
+              "WhenOpened": "2025-07-12T16:42:05.882Z",
               "EditorCaption": ""
             }
           ]

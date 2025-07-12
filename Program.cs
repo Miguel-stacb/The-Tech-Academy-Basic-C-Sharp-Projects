@@ -1,4 +1,4 @@
-﻿using System; // Importa el namespace System para usar Console.WriteLine y Console.ReadLine.
+using System; // Importa el namespace System para usar Console.WriteLine y Console.ReadLine.
 using System.Text; // Importa el namespace System.Text para usar la clase StringBuilder.
 
 namespace StringAssignmentApp // Define un namespace para organizar tu aplicación.
