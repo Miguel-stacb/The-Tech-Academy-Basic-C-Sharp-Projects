@@ -1,4 +1,4 @@
-﻿using System; // Importa el namespace System para usar funcionalidades básicas como Console.WriteLine y Console.ReadLine.
+using System; // Importa el namespace System para usar funcionalidades básicas como Console.WriteLine y Console.ReadLine.
 
 namespace LoopAssignmentApp // Define un namespace para organizar tu aplicación.
 {
