@@ -1,0 +1,14 @@
+C:\Users\macor\source\repos\StringAssignmentApp\bin\Debug\net8.0\StringAssignmentApp.exe
+C:\Users\macor\source\repos\StringAssignmentApp\bin\Debug\net8.0\StringAssignmentApp.deps.json
+C:\Users\macor\source\repos\StringAssignmentApp\bin\Debug\net8.0\StringAssignmentApp.runtimeconfig.json
+C:\Users\macor\source\repos\StringAssignmentApp\bin\Debug\net8.0\StringAssignmentApp.dll
+C:\Users\macor\source\repos\StringAssignmentApp\bin\Debug\net8.0\StringAssignmentApp.pdb
+C:\Users\macor\source\repos\StringAssignmentApp\obj\Debug\net8.0\StringAssignmentApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macor\source\repos\StringAssignmentApp\obj\Debug\net8.0\StringAssignmentApp.AssemblyInfoInputs.cache
+C:\Users\macor\source\repos\StringAssignmentApp\obj\Debug\net8.0\StringAssignmentApp.AssemblyInfo.cs
+C:\Users\macor\source\repos\StringAssignmentApp\obj\Debug\net8.0\StringAssignmentApp.csproj.CoreCompileInputs.cache
+C:\Users\macor\source\repos\StringAssignmentApp\obj\Debug\net8.0\StringAssignmentApp.dll
+C:\Users\macor\source\repos\StringAssignmentApp\obj\Debug\net8.0\refint\StringAssignmentApp.dll
+C:\Users\macor\source\repos\StringAssignmentApp\obj\Debug\net8.0\StringAssignmentApp.pdb
+C:\Users\macor\source\repos\StringAssignmentApp\obj\Debug\net8.0\StringAssignmentApp.genruntimeconfig.cache
+C:\Users\macor\source\repos\StringAssignmentApp\obj\Debug\net8.0\ref\StringAssignmentApp.dll
