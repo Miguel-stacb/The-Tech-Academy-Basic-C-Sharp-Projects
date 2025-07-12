@@ -1,22 +1,38 @@
-# Visual Studio
+# Visual Studio y artefactos de compilación de .NET
 .vs/
-*.suo
-*.user
-*.摟t
-*.builds
-*.log
-*.bak
-*.pdb
-*.obj
 [Bb]in/
 [Oo]bj/
+*.pdb
+*.exe
+*.dll
+*.suo
+*.user
+*.log
+*.builds
+*.bak
+*.ncb
+*.opensdf
+*.sdf
+*.tlog
+*.vshost.*
+*.vspscc
+*.vssscc
+*.vspscc
+*.vssscc
+*.pidb
+*.orig
+*.userprefs
 
-# NuGet
+# Paquetes NuGet
 *.nupkg
-# The packages folder can be ignored because NuGet restores packages
-# on build and upon opening the solution.
 [Pp]ackages/
 
-# Windows
-Thumbs.db
-Desktop.ini
+# Rider
+.idea/
+
+# Mac
+.DS_Store
+
+# Unix/Linux
+*~
+*.log
