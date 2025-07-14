@@ -1,0 +1,59 @@
+﻿@model IEnumerable<CarInsurance.Models.Insuree>
+
+@{
+    ViewData["Title"] = "Admin Panel - All Quotes"; // Sets the title for the browser tab.
+}
+
+<h1>Admin Panel - All Quotes</h1>
+
+<p>
+    This page displays all issued insurance quotes along with the associated user information.
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.FirstName) // Displays the friendly name for FirstName.
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.LastName) // Displays the friendly name for LastName.
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EmailAddress) // Displays the friendly name for EmailAddress.
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Quote) // Displays the friendly name for Quote.
+            </th>
+            <th></th> @* Empty header for action links like Details *@
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        { // Loop through each Insuree object in the model (which is a collection).
+          <tr>
+              <td>
+                  @Html.DisplayFor(modelItem => item.FirstName) // Displays the FirstName for the current item.
+              </td>
+              <td>
+                  @Html.DisplayFor(modelItem => item.LastName) // Displays the LastName for the current item.
+              </td>
+              <td>
+                  @Html.DisplayFor(modelItem => item.EmailAddress) // Displays the EmailAddress for the current item.
+              </td>
+              <td>
+                  @item.Quote.ToString("C") @* Displays the Quote formatted as currency (e.g., $123.45). *@
+              </td>
+              <td>
+                  @* Link to the Details page for the current Insuree. *@
+                  <a asp-action="Details" asp-route-id="@item.Id">Details</a>
+              </td>
+          </tr>
+        }
+    </tbody>
+</table>
+
+<div>
+    @* Link to go back to the main Insurees list page. *@
+    <a asp-action="Index">Back to Insurees List</a>
+</div>  
